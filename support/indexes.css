@@ -1,0 +1,440 @@
+
+/* #444444 dark gray     */
+/* #FFCC33 orange        */
+/* #EDE8CB tan           */
+
+body {
+  background-color: gray ;
+  margin: 10px 10px 10px 30px;
+}
+
+table {
+     font-family: Verdana,"Noticia Text",serif;
+       font-size: 8pt;
+background-color: #444444;
+           color: black;
+}
+
+a {text-decoration: none;}
+
+.thA:hover {
+  background-color: tan;
+             color: red;
+             }
+             
+.ASortBy:hover {
+ background-color: white;
+             color: red;
+}
+
+.ASortByWhiteBkgrnd:hover {
+ background-color: white;
+             color: red;
+}
+
+.aPageLink {
+  background-color: white;
+             color: gray;
+}
+
+aPageLink:hover {
+  background-color: white;
+             color: red;
+}
+
+a:hover {
+ background-color: #EDE8CB;
+             color: blue;
+}
+
+li {
+    margin-top: 5px;
+  margin-right: 50px;
+  }
+
+.navDiv {
+/* navDiv is the bar across the top of left-hand textDiv */
+              margin: 2px;
+             padding: 1px 8px 2px 8px;
+              border: 1px solid white;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+
+    background-color: #EDE8CB;
+               color: #444444;
+}
+
+.aNav {
+  background-color: #EDE8CB;
+             color: #444444;
+  }
+.bNav {
+  background-color: #EDE8CB;
+             color: gray;
+  }
+
+.ASortByWhiteBkgrnd {
+               color: silver;
+    background-color: white;
+}
+
+.ASortBy {
+               color: black;
+    background-color: white;
+}
+
+.linkIcon {
+      font-family: "Wingdings",serif;
+  text-decoration: none;
+ background-color: #EDE8CB ;
+            color: gray;
+}
+
+.textDspTable {
+        line-height: 160%;
+
+             margin: 2px 20px 10px 4px;
+
+             border: 1px solid white;
+
+      border-radius: 12px;
+ -moz-border-radius: 12px;
+
+   background-color: white;
+              color: black;
+ }
+
+.tdTextDspTable {
+       padding: 15px 15px 25px 10px;
+}
+
+ /* ================================ */
+
+.indexTable {
+            /* width: 40% ; */
+        line-height: 110%;
+
+              color: red;
+  background-color: #EDE8CB; 
+   /* background-color: tan; */
+
+     border-spacing: 2px;
+             border: 3px solid #EDE8CB;
+
+      border-radius: 12px;
+ -moz-border-radius: 12px;
+}
+
+td {
+   vertical-align: middle;
+          padding: 1px 8px 2px 8px;
+}
+
+.colHd {  
+  background-color: #EDE8CB; 
+             color: gray;
+}
+.colHdEmph {
+   background-color: #EDE8CB; 
+              color: brown; 
+}
+.colHdNo {
+  background-color: #EDE8CB;
+             color: gray;
+}
+
+.thA {
+   background-color: tan;
+              color: brown;
+}
+
+.thBoldLeft {
+/* thBoldLeft thBoldCenter thBoldRight color: #444444; */
+    background-color: tan;
+               color: white;
+               
+      vertical-align: middle;
+          text-align: left;
+
+             padding: 3px 8px 3px 8px;
+
+              border: 1px solid tan;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+  }
+  
+.thBoldCenter {
+                         
+    background-color: tan;
+               color: white;
+               
+      vertical-align: middle;
+          text-align: center;
+  
+             padding: 3px 8px 3px 8px;
+
+              border: 1px solid tan;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+  }
+
+.thBoldRight {
+                       
+    background-color: tan;
+               color: white;
+               
+      vertical-align: middle;
+          text-align: right;
+
+             padding: 3px 8px 3px 8px;
+
+              border: 1px solid tan;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+  }
+
+.thEmphLeft {
+   background-color: #FFCC33 ;
+              color: black;
+     vertical-align: middle;
+         text-align: left;
+            padding: 3px 8px 3px 8px;
+            
+             border: 1px solid #FFCC33;
+
+      border-radius: 12px;
+ -moz-border-radius: 12px;
+ }
+
+.thLeft {
+    background-color: #EDE8CB ;
+              color: #444444; 
+     vertical-align: middle;
+         text-align: left;
+ 
+             border: 1px solid white;
+
+      border-radius: 12px;
+ -moz-border-radius: 12px;
+ }
+ 
+.thEmphCenter {
+    background-color: #FFCC33 ;
+               color: black;
+      vertical-align: middle;
+          text-align: center;
+             padding: 3px 8px 3px 8px;
+
+              border: 1px solid #FFCC33;
+ 
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+ }
+ 
+.thEmphRight {
+    background-color: #FFCC33 ;
+               color: black;
+      vertical-align: middle;
+          text-align: right;
+             padding: 3px 8px 3px 8px;
+  
+              border: 1px solid #FFCC33;
+ 
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+ }
+
+.tdTitle {
+      vertical-align: middle;
+          text-align: left;
+    background-color: #EDE8CB ;
+               color: red;
+
+              border: 1px solid white;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+    
+         padding-top: 5px;
+        padding-left: 10px;
+      padding-bottom: 10px;
+      
+         line-height: 225%;
+           font-size: 12pt;
+}
+
+.tdLeft {
+      vertical-align: middle;
+          text-align: left;
+    background-color: #EDE8CB;
+               color: #444444;
+
+              border: 1px solid white;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+}
+
+.tdCenterNotGreen {
+      vertical-align: middle;
+          text-align: center;
+          
+     background-color: #EDE8CB;
+                color: #EDE8CB;
+              
+              border: 1px solid white;
+       border-radius: 12px; 
+  -moz-border-radius: 12px; 
+}
+
+.tdCenterGreen {
+      vertical-align: middle;
+          text-align: center;
+          
+    /* background-color: #669966; */
+             /* color: #669966; */
+         
+              border: 1px solid white;
+       border-radius: 12px; 
+  -moz-border-radius: 12px; 
+}
+
+.tdCenter {
+      vertical-align: middle;
+          text-align: center;
+    background-color: #EDE8CB ;
+               color: #444444;
+
+              border: 1px solid white;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+}
+
+.tdRight {
+      vertical-align: middle;
+          text-align: right;
+    background-color: #EDE8CB ;
+               color: #444444;
+
+              border: 1px solid white;
+
+       border-radius: 12px;
+  -moz-border-radius: 12px;
+}
+
+.tdEmphLeft {
+           text-align: left;
+     background-color: white  ;
+                color: black;
+
+               border: 1px solid white;
+
+        border-radius: 12px;
+   -moz-border-radius: 12px;
+  }
+
+/*.tdEmphCenterNotGreen {           */
+/*           text-align: center;    */
+/*     background-color: white  ;   */
+/*                color: white;     */
+/*               border: 1px solid white;*/
+/*        border-radius: 12px;      */
+/*   -moz-border-radius: 12px;      */
+/*  }                               */
+
+/* .tdEmphCenterGreen {                  */
+/* green                                 */
+/*           text-align: center;         */           
+/*     background-color: #669966;        */ 
+/*               border: 1px solid white;*/
+/*        border-radius: 12px;           */
+/*   -moz-border-radius: 12px;           */
+/*  }                                    */
+  
+.tdEmphCenter {
+           text-align: center;
+     background-color: white  ;
+                color: black;
+
+               border: 1px solid white;
+
+        border-radius: 12px;
+   -moz-border-radius: 12px;
+  }
+
+.tdEmphRight {
+           text-align: right;
+     background-color: white  ;
+                color: black;
+
+               border: 1px solid white;
+
+        border-radius: 12px;
+   -moz-border-radius: 12px;
+  }
+
+pre {
+  background-color: white;
+             color: black;
+           padding: 0 10px 0 10px;
+}
+/* ====== texts =========================== */
+
+.halfLineDiv {
+     line-height: 70%;
+}
+
+.quarterLineDiv {
+     line-height: 35%;
+}
+
+.l {
+       margin: 0;
+      padding: 0 0 0 12px;
+  text-indent: -12px;
+}
+
+.p {
+       margin: 0 13pt 0 0;
+      padding: 0;
+  text-indent: 18px;
+}
+
+.pFirst {
+       margin: 0 13pt 0 0;
+      padding: 0;
+  text-indent: 0;
+}
+
+.pPageLink {
+           margin: 0 0 0 0;
+            color: gray;
+ background-color: white;
+}
+
+.pTextEnd {
+           margin: 0 0 0 0;
+            color: gray;
+ background-color: white;
+}
+
+.speaker {
+   margin: 0;
+  padding: 0;
+  letter-spacing: 1px;
+}
+
+.sc {
+             display: inline;
+           font-size: 7pt;
+
+     }
+
+
+
+

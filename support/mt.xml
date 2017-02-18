@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Stuff>
+<item id="spec" label="Spec" labelTH="Sp"/>
+<item id="gr" label="Group" labelTH="Group"/>
+<item id="Cab" label="Cab" labelTH="Cab"/>
+<item id="pts" label="pts" labelTH="pts"/>
+<item id="Name" label="Name" labelTH="Name"/> 
+<Type Cab="A01" pts="36" Name="Elite Monogram" spec="S" gr="zz"/> 
+<Type Cab="A01" pts="54" Name="Fifth Avenue Monogram" spec="S" gr="zz"/> 
+<Type Cab="A01 " pts="24" Name="Sans UC" spec="S" gr="Sans"/> 
+<Type Cab="A02" pts="12" Name="Old Face Open" spec="S" gr="zz"/> 
+<Type Cab="A02" pts="14" Name="Old Face Open" spec="S" gr="zz"/> 
+<Type Cab="A03" pts="18" Name="Old Face Open" spec="S" gr="zz"/> 
+<Type Cab="A03" pts="30" Name="Old Face Open" spec="S" gr="zz"/> 
+<Type Cab="A04" pts="24" Name="Thorne Shaded" spec="S" gr="zz"/> 
+<Type Cab="A04" pts="30" Name="Thorne Shaded" spec="S" gr="zz"/> 
+<Type Cab="A05" pts="18" Name="Etrurian" spec="S" gr="zz"/> 
+<Type Cab="A05" pts="24" Name="Castellar" spec="S" gr="zz"/> 
+<Type Cab="A06" pts="24" Name="Etrurian" spec="S" gr="zz"/> 
+<Type Cab="A06" pts="30" Name="Etrurian" spec="S" gr="zz"/> 
+<Type Cab="A07" pts="10" Name="Romany" spec="S" gr="zz"/> 
+<Type Cab="A08" pts="36" Name="Studio" spec="S" gr="zz"/> 
+<Type Cab="A09" pts="8" Name="Saxon Black" spec="x" gr="Black"/> 
+<Type Cab="A10" pts="12" Name="Saxon Black" spec="S" gr="Black"/> 
+<Type Cab="A11" pts="18" Name="Saxon Black" spec="S" gr="Black"/> 
+<Type Cab="A12" pts="24" Name="Saxon Black" spec="x" gr="Black"/> 
+<Type Cab="A13" pts="30" Name="Saxon Black" spec="x" gr="Black"/> 
+<Type Cab="A14" pts="12" Name="Authors Italic" spec="x" gr="zz"/> 
+<Type Cab="A15" pts="18" Name="Authors Italic" spec="x" gr="zz"/> 
+<Type Cab="A16" pts="24" Name="Authors Italic" spec="x" gr="zz"/> 
+<Type Cab="A17" pts="36" Name="Authors Italic" spec="x" gr="zz"/> 
+<Type Cab="A18" pts="48" Name="Authors Italic" spec="x" gr="zz"/> 
+<Type Cab="A19" pts="18" Name="Deepdene UC, SC" spec="x" gr="Roman"/> 
+<Type Cab="A20" pts="0" Name="misc fractions" spec="x" gr="zz"/> 
+<Type Cab="C01" pts="10" Name="Joanna" spec="S" gr="Roman"/> 
+<Type Cab="C02" pts="12" Name="Joanna" spec="S" gr="Roman"/> 
+<Type Cab="C03" pts="12" Name="Joanna Italic" spec="S" gr="Roman"/> 
+<Type Cab="C04" pts="14" Name="Joanna" spec="S" gr="Roman"/> 
+<Type Cab="C05" pts="14" Name="Joanna Italic" spec="S" gr="Roman"/> 
+<Type Cab="C06" pts="12" Name="DeVinne UC" spec="x" gr="zz"/> 
+<Type Cab="C06" pts="18" Name="DeVinne UC" spec="x" gr="zz"/> 
+<Type Cab="C07" pts="48" Name="DeVinne UC" spec="x" gr="zz"/> 
+<Type Cab="C07" pts="60" Name="DeVinne UC" spec="x" gr="zz"/> 
+<Type Cab="C08" pts="12" Name="Goudy Text" spec="x" gr="Black"/> 
+<Type Cab="C09" pts="30" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="C10" pts="12" Name="Weiss unlabeled" spec="x" gr="Roman"/> 
+<Type Cab="C11" pts="16" Name="Weiss" spec="x" gr="Roman"/> 
+<Type Cab="C12" pts="18" Name="Weiss" spec="x" gr="Roman"/> 
+<Type Cab="C13" pts="24" Name="Weiss UC" spec="x" gr="Roman"/> 
+<Type Cab="C13" pts="52" Name="Weiss UC" spec="x" gr="Roman"/> 
+<Type Cab="C14" pts="18" Name="Legend" spec="x" gr="zz"/> 
+<Type Cab="C14" pts="20" Name="Legend" spec="x" gr="zz"/> 
+<Type Cab="C15" pts="72" Name="Legend" spec="x" gr="zz"/> 
+<Type Cab="C16" pts="18" Name="Old English unlabeled " spec="x" gr="Black"/> 
+<Type Cab="C16" pts="36" Name="Old English unlabeled (partial)" spec="x" gr="Black"/> 
+<Type Cab="C17" pts="36" Name="unidentified Italic" spec="x" gr="zz"/> 
+<Type Cab="C18" pts="12" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="C19" pts="14" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="C20" pts="12" Name="Janson Stempel" spec="x" gr="Roman"/> 
+<Type Cab="C21" pts="12" Name="Janson Italic  + acc Stempel" spec="x" gr="Roman"/> 
+<Type Cab="C22" pts="8" Name="Old English (unlabeled)" spec="x" gr="Black"/> 
+<Type Cab="C22" pts="24" Name="Old English (unlabeled)" spec="x" gr="Black"/> 
+<Type Cab="C23" pts="10" Name="Old English (unlabeled)" spec="x" gr="Black"/> 
+<Type Cab="C24" pts="12" Name="Old English (unlabeled)" spec="x" gr="Black"/> 
+<Type Cab="D01" pts="D11 " Name="Romanee UC" spec="x" gr="Roman"/> 
+<Type Cab="D02" pts="D12" Name="Romanee Italic" spec="x" gr="Roman"/> 
+<Type Cab="D03" pts="D13" Name="Romanee UC" spec="x" gr="Roman"/> 
+<Type Cab="D04" pts="D15" Name="Romanee" spec="x" gr="Roman"/> 
+<Type Cab="D05" pts="D17" Name="Romanee" spec="x" gr="Roman"/> 
+<Type Cab="D06" pts="D30" Name="Romanee" spec="x" gr="Roman"/> 
+<Type Cab="D07" pts="20" Name="Legend" spec="x" gr="zz"/> 
+<Type Cab="D08" pts="14" Name="American Uncial" spec="x" gr="zz"/> 
+<Type Cab="D09" pts="60" Name="Sistina" spec="x" gr="zz"/> 
+<Type Cab="D10" pts="48" Name="Windsor Elongated" spec="x" gr="zz"/> 
+<Type Cab="D10" pts="12" Name="Scotch Roman Bold" spec="x" gr="Roman"/> 
+<Type Cab="D11" pts="36" Name="Festival" spec="x" gr="zz"/> 
+<Type Cab="D11" pts="30" Name="Carnet de Bal" spec="x" gr="zz"/> 
+<Type Cab="D12" pts="34" Name="Caslon Ornamental No. 27" spec="S" gr="zz"/> 
+<Type Cab="D13" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="D14" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="D15" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="D16" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="D17" pts="36" Name="Cochin Open" spec="x" gr="zz"/> 
+<Type Cab="D18" pts="30" Name="Hadriano UC" spec="x" gr="zz"/> 
+<Type Cab="D18" pts="18" Name="Lombardic UC" spec="x" gr="zz"/> 
+<Type Cab="E01" pts="24" Name="Barnum" spec="S" gr="zz"/> 
+<Type Cab="E02" pts="18" Name="Latin Cond Stephenson Blake" spec="x" gr="zz"/> 
+<Type Cab="E03" pts="18" Name="Pencraft" spec="S" gr="zz"/> 
+<Type Cab="E04" pts="14" Name="Sans Condensed" spec="S" gr="Sans"/> 
+<Type Cab="E05" pts="18" Name="Webb Open" spec="S" gr="zz"/> 
+<Type Cab="E06" pts="36" Name="unidentified circus UC" spec="S" gr="zz"/> 
+<Type Cab="E07" pts="14" Name="Fabritius" spec="S" gr="zz"/> 
+<Type Cab="E08" pts="12" Name="unidentified roman" spec="x" gr="zz"/> 
+<Type Cab="E09" pts="18" Name="Columbus" spec="S" gr="zz"/> 
+<Type Cab="E10" pts="18" Name="Liberty (ATF)" spec="S" gr="zz"/> 
+<Type Cab="Fa01" pts="9" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fa01" pts="11" Name="Janson SC" spec="S" gr="Roman"/> 
+<Type Cab="Fa02" pts="11" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fa03" pts="11" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="Fa04" pts="12" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fa05" pts="12" Name="Janson square" spec="S" gr="Roman"/> 
+<Type Cab="Fa06" pts="12" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="Fa07" pts="14" Name="Janson u" spec="S" gr="Roman"/> 
+<Type Cab="Fa08" pts="14" Name="Janson lc u" spec="S" gr="Roman"/> 
+<Type Cab="Fa09" pts="14" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="Fa10" pts="14" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="Fa11" pts="14" Name="Janson Italic lc" spec="S" gr="Roman"/> 
+<Type Cab="Fa12" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="Fa13" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="Fa14" pts="18" Name="Janson  Stempel" spec="x" gr="Roman"/> 
+<Type Cab="Fa14" pts="18" Name="Janson Italic Stempel" spec="x" gr="Roman"/> 
+<Type Cab="Fa15 " pts="12" Name="Caslon" spec="x" gr="Roman"/> 
+<Type Cab="Fa16" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="Fb01" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="Fb02" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="Fb03" pts="18" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb04" pts="18" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="Fb05" pts="24" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb06" pts="24" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb07" pts="24" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb08" pts="24" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb09" pts="24" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb10" pts="24" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb11" pts="24" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="Fb12" pts="24" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="Fb13" pts="30" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="Fb14" pts="18" Name="Deepdene UC" spec="x" gr="Roman"/> 
+<Type Cab="Fb15" pts="18" Name="Deepdene lc" spec="x" gr="Roman"/> 
+<Type Cab="Fb16" pts="18" Name="Deepdene Italic" spec="x" gr="Roman"/> 
+<Type Cab="Ga01" pts="18" Name="Trajan Light" spec="x" gr="Roman"/> 
+<Type Cab="Ga02" pts="14" Name="Trajan Light" spec="x" gr="Roman"/> 
+<Type Cab="Ga03" pts="30" Name="Trajan Light" spec="x" gr="Roman"/> 
+<Type Cab="Ga04" pts="18" Name="Trajan Light Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga05" pts="14" Name="Trajan Light Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga06" pts="36" Name="Trajan Light" spec="x" gr="Roman"/> 
+<Type Cab="Ga07" pts="36" Name="Trajan Light Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga08" pts="30" Name="Trajan Light Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga09" pts="24" Name="Trajan Light Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga10" pts="14" Name="Trajan Bold Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga11" pts="42" Name="Trajan Light Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga12" pts="18" Name="Trajan Bold Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga13" pts="24" Name="Trajan Bold Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga14" pts="30" Name="Trajan Bold Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga15" pts="36" Name="Trajan Cond" spec="x" gr="Roman"/> 
+<Type Cab="Ga16" pts="42" Name="Trajan" spec="x" gr="Roman"/> 
+<Type Cab="gal" pts="26" Name="Abbey Text Cond" spec="x" gr="zz"/> 
+<Type Cab="Gb01" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="Gb02" pts="48" Name="Trajan" spec="x" gr="Roman"/> 
+<Type Cab="Gb03" pts="10" Name="Poliphilus" spec="S" gr="Roman"/> 
+<Type Cab="Gb04" pts="10" Name="Poliphilus SC" spec="S" gr="Roman"/> 
+<Type Cab="Gb04" pts="13" Name="Poliphilus UC" spec="x" gr="Roman"/> 
+<Type Cab="Gb05" pts="10" Name="Blado" spec="S" gr="Roman"/> 
+<Type Cab="Gb06" pts="18" Name="Poliphilus Titling" spec="x" gr="Roman"/> 
+<Type Cab="Gb06" pts="24" Name="Poliphilus Titling" spec="x" gr="Roman"/> 
+<Type Cab="Gb07" pts="16" Name="Poliphilus" spec="S" gr="Roman"/> 
+<Type Cab="Gb08" pts="16" Name="Poliphilus UC" spec="S" gr="Roman"/> 
+<Type Cab="Gb09" pts="16" Name="Poliphilus lc" spec="S" gr="Roman"/> 
+<Type Cab="Gb10" pts="16" Name="Blado" spec="S" gr="Roman"/> 
+<Type Cab="Gb11" pts="16" Name="Blado &amp; sorts" spec="S" gr="Roman"/> 
+<Type Cab="Gb12" pts="24" Name="Blado" spec="S" gr="Roman"/> 
+<Type Cab="Gb13" pts="24" Name="Blado &amp; sorts" spec="S" gr="Roman"/> 
+<Type Cab="Gb14" pts="24" Name="Blado" spec="S" gr="Roman"/> 
+<Type Cab="Gb15" pts="13" Name="Blado" spec="x" gr="Roman"/> 
+<Type Cab="Gb16" pts="16" Name="Blado &amp; sorts " spec="S" gr="Roman"/> 
+<Type Cab="I01" pts="36" Name="Janson" spec="S" gr="Roman"/> 
+<Type Cab="I02" pts="36" Name="Janson Italic" spec="S" gr="Roman"/> 
+<Type Cab="I03" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="I04" pts="14" Name="Bookman UC &amp; sorts" spec="x" gr="Roman"/> 
+<Type Cab="I05" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="I06" pts="14" Name="Bookman lc" spec="x" gr="Roman"/> 
+<Type Cab="I07" pts="18" Name="Kennerly Roman UC Swash" spec="x" gr="Roman"/> 
+<Type Cab="I08" pts="18" Name="Deepdene" spec="x" gr="Roman"/> 
+<Type Cab="I09" pts="0" Name="misc UC" spec="x" gr="zz"/> 
+<Type Cab="I10" pts="18" Name="Kennerley Italic" spec="x" gr="Roman"/> 
+<Type Cab="I11" pts="18" Name="Kennerley Italic Swash" spec="x" gr="Roman"/> 
+<Type Cab="I11" pts="16" Name="Kennerley Italic Swash" spec="x" gr="Roman"/> 
+<Type Cab="I11" pts="14" Name="Kennerley Italic Swash" spec="x" gr="Roman"/> 
+<Type Cab="I12" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="I13" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="I14" pts="0" Name="blank" spec="x" gr="zz"/> 
+<Type Cab="I15" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="I16" pts="12" Name="Broadway" spec="x" gr="zz"/> 
+<Type Cab="I16" pts="18" Name="Broadway" spec="x" gr="zz"/> 
+<Type Cab="I17" pts="18" Name="Broadway Inline" spec="x" gr="zz"/> 
+<Type Cab="I17" pts="24" Name="Broadway Inline" spec="x" gr="zz"/> 
+<Type Cab="I18" pts="18" Name="Goudy Handtooled" spec="x" gr="zz"/> 
+<Type Cab="I19" pts="24" Name="Goudy Handtooled" spec="x" gr="zz"/> 
+<Type Cab="I20" pts="30" Name="Goudy Handtooled" spec="x" gr="zz"/> 
+<Type Cab="I21" pts="14" Name="Kennerley" spec="x" gr="Roman"/> 
+<Type Cab="I22" pts="12" Name="Kennerley" spec="x" gr="Roman"/> 
+<Type Cab="I23" pts="10" Name="Kennerley" spec="x" gr="Roman"/> 
+<Type Cab="I24" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="J01" pts="14" Name="Univers Medium Italic" spec="x" gr="Sans"/> 
+<Type Cab="J02" pts="18" Name="Univers Medium" spec="x" gr="Sans"/> 
+<Type Cab="J03" pts="24" Name="Univers Medium" spec="x" gr="Sans"/> 
+<Type Cab="J04" pts="14" Name="Univers Medium" spec="x" gr="Sans"/> 
+<Type Cab="J05" pts="14" Name="Janson u" spec="x" gr="Roman"/> 
+<Type Cab="J06" pts="14" Name="Janson u" spec="x" gr="Roman"/> 
+<Type Cab="J07" pts="12" Name="Wren Italic" spec="S" gr="Roman"/> 
+<Type Cab="J08" pts="12" Name="Wren" spec="S" gr="Roman"/> 
+<Type Cab="J09" pts="18" Name="Wren Italic" spec="S" gr="Roman"/> 
+<Type Cab="J10" pts="18" Name="Wren" spec="S" gr="Roman"/> 
+<Type Cab="J11" pts="24" Name="Wren" spec="S" gr="Roman"/> 
+<Type Cab="J12" pts="24" Name="Wren Italic" spec="S" gr="Roman"/> 
+<Type Cab="J13" pts="0" Name="mt triple cap" spec="x" gr="zz"/> 
+<Type Cab="J14" pts="30" Name="Wren " spec="S" gr="Roman"/> 
+<Type Cab="J15" pts="30" Name="Wren Italic" spec="S" gr="Roman"/> 
+<Type Cab="J16" pts="72" Name="Wren" spec="S" gr="Roman"/> 
+<Type Cab="J17" pts="0" Name="Wren accents" spec="x" gr="Roman"/> 
+<Type Cab="J18" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="J19" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="J20" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="J21" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="J22" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="j23" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="J24" pts="12" Name="unidentified Roman" spec="x" gr="zz"/> 
+<Type Cab="K01" pts="8" Name="Bembo SC Laine " spec="x" gr="Roman"/> 
+<Type Cab="K02" pts="8" Name="Bembo Laine" spec="x" gr="Roman"/> 
+<Type Cab="K03" pts="8" Name="Bembo Italic Laine" spec="x" gr="Roman"/> 
+<Type Cab="K04" pts="10" Name="Bembo on 12 Rueter" spec="x" gr="Roman"/> 
+<Type Cab="K05" pts="10" Name="Bembo Italic Rueter on 12" spec="x" gr="Roman"/> 
+<Type Cab="K06" pts="14" Name="Bembo Italic Rueter " spec="S" gr="Roman"/> 
+<Type Cab="K07" pts="18" Name="Bembo Rueter" spec="S" gr="Roman"/> 
+<Type Cab="K08" pts="18" Name="Bembo Italic Rueter" spec="S" gr="Roman"/> 
+<Type Cab="K09" pts="24" Name="Bembo Rueter" spec="S" gr="Roman"/> 
+<Type Cab="K10" pts="24" Name="Bembo Italic Rueter" spec="S" gr="Roman"/> 
+<Type Cab="K11" pts="36" Name="Bembo Rueter" spec="S" gr="Roman"/> 
+<Type Cab="K12" pts="36" Name="Bembo Italic Rueter" spec="S" gr="Roman"/> 
+<Type Cab="K13" pts="48" Name="Bembo Rueter" spec="S" gr="Roman"/> 
+<Type Cab="K14" pts="0" Name="mt Cal job" spec="x" gr="zz"/> 
+<Type Cab="K15" pts="16" Name="Deepdene Italic" spec="x" gr="zz"/> 
+<Type Cab="K16" pts="0" Name="mt Cal Job" spec="x" gr="zz"/> 
+<Type Cab="K17" pts="0" Name="mt Cal job" spec="x" gr="zz"/> 
+<Type Cab="K18" pts="0" Name="mt Cal job" spec="x" gr="zz"/> 
+<Type Cab="K19" pts="0" Name="mt Cal job" spec="x" gr="zz"/> 
+<Type Cab="K20" pts="30" Name="Unidentified Roman UC" spec="x" gr="zz"/> 
+<Type Cab="K21" pts="24" Name="Libra" spec="S" gr="zz"/> 
+<Type Cab="K21" pts="30" Name="Libra" spec="S" gr="zz"/> 
+<Type Cab="K22" pts="18" Name="Libra" spec="S" gr="zz"/> 
+<Type Cab="K22" pts="12" Name="Libra" spec="S" gr="zz"/> 
+<Type Cab="K23" pts="0" Name="mt triple cap" spec="x" gr="zz"/> 
+<Type Cab="K24" pts="0" Name="mt triple cap" spec="x" gr="zz"/> 
+<Type Cab="K25" pts="0" Name="mt triple cap" spec="x" gr="zz"/> 
+<Type Cab="Pa01" pts="6" Name="American Garamond 648E" spec="x" gr="Roman"/> 
+<Type Cab="Pa02" pts="8" Name="American Garamond 648E" spec="x" gr="Roman"/> 
+<Type Cab="Pa03" pts="10" Name="American Garamond 648E" spec="x" gr="Roman"/> 
+<Type Cab="Pa04" pts="12" Name="American Garamond 648E" spec="x" gr="Roman"/> 
+<Type Cab="Pa05" pts="6" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa06" pts="8" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa07" pts="10" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa08" pts="12" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa09" pts="14" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa10" pts="18" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa11" pts="24" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa12" pts="30" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa13" pts="36" Name="Garamond Bold 548J" spec="x" gr="Roman"/> 
+<Type Cab="Pa14" pts="14" Name="American Garamond Light 248E" spec="x" gr="Roman"/> 
+<Type Cab="Pa15" pts="18" Name="American Garamond Light 248E" spec="x" gr="Roman"/> 
+<Type Cab="Pa16" pts="24" Name="American Garamond Light 248E" spec="x" gr="Roman"/> 
+<Type Cab="Pa17" pts="30" Name="American Garamond Light 248E" spec="x" gr="Roman"/> 
+<Type Cab="Pa18" pts="36" Name="American Garamond Light 248E" spec="x" gr="Roman"/> 
+<Type Cab="Pa19" pts="10" Name="Franklin" spec="x" gr="Sans"/> 
+<Type Cab="Pa20" pts="12" Name="Franklin" spec="x" gr="Sans"/> 
+<Type Cab="Pa21" pts="14" Name="Franklin" spec="x" gr="Sans"/> 
+<Type Cab="Pa22" pts="18" Name="Franklin " spec="x" gr="Sans"/> 
+<Type Cab="Pa23" pts="24" Name="Franklin" spec="x" gr="Sans"/> 
+<Type Cab="Pa24" pts="30" Name="Franklin" spec="x" gr="Sans"/> 
+<Type Cab="Pb01" pts="6" Name="American Garamond Italic 648E" spec="x" gr="Roman"/> 
+<Type Cab="Pb02" pts="8" Name="American Garamond Italic 648E" spec="x" gr="Roman"/> 
+<Type Cab="Pb03" pts="10" Name="American Garamond Italic 648E" spec="x" gr="Roman"/> 
+<Type Cab="Pb04" pts="12" Name="American Garamond Italic 648E " spec="x" gr="Roman"/> 
+<Type Cab="Pb05" pts="6" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb06" pts="8" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb07" pts="10" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb08" pts="12" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb09" pts="14" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb10" pts="18" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb11" pts="24" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb12" pts="30" Name="Garamond Bold Italic 548K" spec="x" gr="Roman"/> 
+<Type Cab="Pb13" pts="14" Name="Garamont Light Italic" spec="x" gr="Roman"/> 
+<Type Cab="Pb14" pts="18" Name="Garamont Light Italic" spec="x" gr="Roman"/> 
+<Type Cab="Pb15" pts="24" Name="Garamont Light Italic" spec="x" gr="Roman"/> 
+<Type Cab="Pb16" pts="8" Name="Futura Medium" spec="x" gr="Sans"/> 
+<Type Cab="Pb17" pts="12" Name="Futura Medium" spec="x" gr="Sans"/> 
+<Type Cab="Pb18" pts="14" Name="Futura Medium" spec="x" gr="Sans"/> 
+<Type Cab="Pb19" pts="24" Name="Futura Medium" spec="x" gr="Sans"/> 
+<Type Cab="Pb19" pts="48" Name="Futura Medium" spec="x" gr="Sans"/> 
+<Type Cab="Pb20" pts="10" Name="Stymie Light" spec="x" gr="Sans"/> 
+<Type Cab="Pb21" pts="12" Name="Stymie Light" spec="x" gr="Sans"/> 
+<Type Cab="Pb22" pts="14" Name="Stymie Light" spec="x" gr="Sans"/> 
+<Type Cab="Pb23" pts="18" Name="Stymie Light" spec="x" gr="Sans"/> 
+<Type Cab="Pb24" pts="48" Name="Stymie Light" spec="x" gr="Sans"/> 
+<Type Cab="Qa01" pts="8" Name="Goudy OS" spec="x" gr="Roman"/> 
+<Type Cab="Qa02" pts="14" Name="Goudy OS" spec="x" gr="Roman"/> 
+<Type Cab="Qa03" pts="14" Name="Goudy OS lc &amp; SC" spec="x" gr="Roman"/> 
+<Type Cab="Qa04" pts="18" Name="Goudy OS Italic" spec="x" gr="Roman"/> 
+<Type Cab="Qa04" pts="18" Name="Goudy OS lc &amp; SC" spec="x" gr="Roman"/> 
+<Type Cab="Qa05" pts="24" Name="Goudy OS UC" spec="x" gr="Roman"/> 
+<Type Cab="Qa05" pts="18" Name="Goudy OS UC" spec="x" gr="Roman"/> 
+<Type Cab="Qa06" pts="30" Name="Goudy OS UC" spec="x" gr="Roman"/> 
+<Type Cab="Qa06" pts="42" Name="Goudy OS UC" spec="x" gr="Roman"/> 
+<Type Cab="Qa07" pts="12" Name="Goudy Light" spec="x" gr="zz"/> 
+<Type Cab="Qa08" pts="14" Name="Goudy Light" spec="x" gr="zz"/> 
+<Type Cab="Qa09" pts="18" Name="Goudy Light" spec="x" gr="zz"/> 
+<Type Cab="Qa10" pts="24" Name="Goudy Light" spec="x" gr="zz"/> 
+<Type Cab="Qa11" pts="30" Name="Goudy Light" spec="x" gr="zz"/> 
+<Type Cab="Qa12" pts="30" Name="Goudy Light" spec="x" gr="zz"/> 
+<Type Cab="Qa13" pts="36" Name="Goudy Light" spec="x" gr="zz"/> 
+<Type Cab="Qa14" pts="12" Name="Masterman" spec="x" gr="zz"/> 
+<Type Cab="Qa15" pts="18" Name="Masterman" spec="x" gr="zz"/> 
+<Type Cab="Qa16" pts="24" Name="Masterman" spec="x" gr="zz"/> 
+<Type Cab="Qa17" pts="36" Name="Masterman" spec="x" gr="zz"/> 
+<Type Cab="Qa18" pts="18" Name="Goudy Heavy" spec="x" gr="zz"/> 
+<Type Cab="Qa19" pts="24" Name="Goudy Heavy" spec="x" gr="zz"/> 
+<Type Cab="Qa20" pts="24" Name="Goudy Heavy" spec="x" gr="zz"/> 
+<Type Cab="Qa21" pts="30" Name="Goudy Heavy" spec="x" gr="zz"/> 
+<Type Cab="Qa22" pts="36" Name="Goudy Heavy" spec="x" gr="zz"/> 
+<Type Cab="Qa23" pts="36" Name="Goudy Heavy" spec="x" gr="zz"/> 
+<Type Cab="Qa24" pts="0" Name="mt" spec="x" gr="zz"/> 
+<Type Cab="Qb01" pts="8" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb02" pts="8" Name="Bembo + SC O" spec="x" gr="Roman"/> 
+<Type Cab="Qb03" pts="12" Name="Bembo SC only O" spec="x" gr="Roman"/> 
+<Type Cab="Qb03" pts="10" Name="Bembo SC only O" spec="x" gr="Roman"/> 
+<Type Cab="Qb03" pts="11" Name="Bembo UC &amp; SC only O" spec="x" gr="Roman"/> 
+<Type Cab="Qb04" pts="12" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="Qb05" pts="12" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb06" pts="18" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="Qb07" pts="18" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="Qb08" pts="18" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb09" pts="18" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb10" pts="24" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="Qb11" pts="24" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb12" pts="30" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="Qb13" pts="30" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb14" pts="30" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="Qb15" pts="30" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb16" pts="30" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb17" pts="36" Name="Bembo O" spec="x" gr="Roman"/> 
+<Type Cab="Qb18" pts="36" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb19" pts="36" Name="Bembo Italic O" spec="x" gr="Roman"/> 
+<Type Cab="Qb20" pts="72" Name="Grotesque #2" spec="S" gr="zz"/> 
+<Type Cab="Qb21" pts="48" Name="Grotesque #1" spec="S" gr="zz"/> 
+<Type Cab="Qb22" pts="60" Name="Grotesque #3" spec="S" gr="zz"/> 
+<Type Cab="Qb23" pts="60" Name="Grotesque #3" spec="S" gr="zz"/> 
+<Type Cab="Qb24" pts="0" Name="mt Cal job" spec="x" gr="zz"/> 
+<Type Cab="Ra01" pts="18" Name="Bernhard" spec="x" gr="zz"/> 
+<Type Cab="Ra02" pts="10" Name="Bernhard" spec="x" gr="zz"/> 
+<Type Cab="Ra02" pts="14" Name="Bernhard" spec="x" gr="zz"/> 
+<Type Cab="Ra03" pts="16" Name="Bernhard" spec="x" gr="zz"/> 
+<Type Cab="Ra04" pts="16" Name="Bernhard" spec="x" gr="zz"/> 
+<Type Cab="Ra05" pts="20" Name="Bernhard UC" spec="x" gr="zz"/> 
+<Type Cab="Ra05" pts="20" Name="Bernhard UC" spec="x" gr="zz"/> 
+<Type Cab="Ra05" pts="30" Name="Bernhard UC" spec="x" gr="zz"/> 
+<Type Cab="Ra06" pts="14" Name="Bernhard Cursive" spec="x" gr="zz"/> 
+<Type Cab="Ra06" pts="18" Name="Bernhard Cursive lc" spec="x" gr="zz"/> 
+<Type Cab="Ra07" pts="16" Name="Bernhard Cursive" spec="x" gr="zz"/> 
+<Type Cab="Ra08" pts="16" Name="Bernhard Cursive sorts" spec="x" gr="zz"/> 
+<Type Cab="Ra09" pts="18" Name="Bernhard Cursive" spec="x" gr="zz"/> 
+<Type Cab="Ra10" pts="36" Name="Bernhard Cursive" spec="x" gr="zz"/> 
+<Type Cab="Ra10" pts="54" Name="Bernhard Cursive" spec="x" gr="zz"/> 
+<Type Cab="Ra11" pts="42" Name="Bernhard Cursive" spec="x" gr="zz"/> 
+<Type Cab="Ra12" pts="11" Name="Lutetia Italic" spec="x" gr="Roman"/> 
+<Type Cab="Ra13" pts="12" Name="Lutetia Italic" spec="x" gr="Roman"/> 
+<Type Cab="Ra14" pts="15" Name="Lutetia Italic" spec="x" gr="Roman"/> 
+<Type Cab="Ra15" pts="17" Name="Lutetia Italic" spec="x" gr="Roman"/> 
+<Type Cab="Ra16" pts="11" Name="Lutetia" spec="x" gr="Roman"/> 
+<Type Cab="Ra17" pts="15" Name="Lutetia" spec="x" gr="Roman"/> 
+<Type Cab="Ra18" pts="17" Name="Lutetia" spec="x" gr="Roman"/> 
+<Type Cab="Ra19" pts="17" Name="Lutetia lc + sorts" spec="x" gr="Roman"/> 
+<Type Cab="Ra20" pts="21" Name="Lutetia" spec="x" gr="Roman"/> 
+<Type Cab="Ra21" pts="26" Name="Lutetia" spec="x" gr="Roman"/> 
+<Type Cab="Ra22" pts="12" Name="Arrighi" spec="x" gr="zz"/> 
+<Type Cab="Ra23" pts="14" Name="Arrighi" spec="x" gr="zz"/> 
+<Type Cab="Ra24" pts="0" Name="misc sorts + orn" spec="x" gr="zz"/> 
+<Type Cab="Sa01" pts="6" Name="Bodoni Medium 375" spec="x" gr="Roman"/> 
+<Type Cab="Sa02" pts="8" Name="Bodoni Medium 375" spec="x" gr="Roman"/> 
+<Type Cab="Sa03" pts="10" Name="Bodoni Medium 375" spec="x" gr="Roman"/> 
+<Type Cab="Sa04" pts="12" Name="Bodoni Medium 375" spec="x" gr="Roman"/> 
+<Type Cab="Sa05" pts="6" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa06" pts="8" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa07" pts="10" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa08" pts="12" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa09" pts="14" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa10" pts="18" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa11" pts="24" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa12" pts="30" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa13" pts="36" Name="Bodoni Bold 275A" spec="x" gr="Roman"/> 
+<Type Cab="Sa14" pts="0" Name="Bodoni Bold 275A accents" spec="x" gr="Roman"/> 
+<Type Cab="Sa15" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa16" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa17" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa18" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa19" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa20" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa21" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa22" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa23" pts="0" Name="wood" spec="x" gr="zz"/> 
+<Type Cab="Sa24" pts="12" Name="Perpetua Caps" spec="x" gr="Roman"/> 
+<Type Cab="Sb01" pts="6" Name="Bodoni Medium Italic 375K" spec="x" gr="Roman"/> 
+<Type Cab="Sb02" pts="8" Name="Bodoni Medium Italic 375K" spec="x" gr="Roman"/> 
+<Type Cab="Sb03" pts="10" Name="Bodoni Medium Italic 375K" spec="x" gr="Roman"/> 
+<Type Cab="Sb04" pts="12" Name="Bodoni Medium Italic 375K" spec="x" gr="Roman"/> 
+<Type Cab="Sb05" pts="6" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb06" pts="8" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb07" pts="10" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb08" pts="12" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb09" pts="14" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb10" pts="18" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb11" pts="24" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb12" pts="30" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb13" pts="36" Name="Bodoni Bold Italic" spec="x" gr="Roman"/> 
+<Type Cab="Sb14" pts="12" Name="Cloister Black" spec="S" gr="Black"/> 
+<Type Cab="Sb15" pts="14" Name="Cloister Black" spec="S" gr="Black"/> 
+<Type Cab="Sb16" pts="18" Name="Cloister Black" spec="S" gr="Black"/> 
+<Type Cab="Sb17" pts="24" Name="Cloister Black" spec="S" gr="Black"/> 
+<Type Cab="Sb18" pts="30" Name="Cloister Black" spec="S" gr="Black"/> 
+<Type Cab="Sb19" pts="30" Name="Cloister Black" spec="S" gr="Black"/> 
+<Type Cab="Sb20" pts="36" Name="Cloister Black" spec="S" gr="Black"/> 
+<Type Cab="Sb21" pts="0" Name="mt Cal job" spec="x" gr="zz"/> 
+<Type Cab="Sb22" pts="24" Name="Cheltenham Bold Outline" spec="x" gr="zz"/> 
+<Type Cab="Sb22" pts="36" Name="Cheltenham Bold Outline" spec="x" gr="zz"/> 
+<Type Cab="Sb23" pts="18" Name="Cheltenham Bold Outline" spec="x" gr="zz"/> 
+<Type Cab="Sb23" pts="30" Name="Cheltenham Bold Outline" spec="x" gr="zz"/> 
+<Type Cab="Sb24" pts="0" Name="stuck" spec="x" gr="zz"/> 
+<Type Cab="T01" pts="24" Name="Sans Caps" spec="x" gr="Sans"/> 
+<Type Cab="U01" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U02" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U03" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U04" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U05" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U06" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U07" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U08" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U09" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U10" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U11" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U12" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U13" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U14" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U15" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U16" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U17" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U18" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="U19" pts="0" Name="x" spec="x" gr="zz"/> 
+<Type Cab="V01" pts="24" Name="Keynote" spec="S" gr="zz"/> 
+<Type Cab="V02" pts="18" Name="Kaufman Bold" spec="S" gr="zz"/> 
+<Type Cab="V03" pts="24" Name="Kaufman Bold" spec="S" gr="zz"/> 
+<Type Cab="V04" pts="26" Name="Abbey Text Cond" spec="S" gr="zz"/> 
+<Type Cab="V05" pts="14" Name="Liberty" spec="S" gr="zz"/> 
+<Type Cab="V06" pts="14" Name="Park Avenue" spec="S" gr="zz"/> 
+<Type Cab="V07" pts="18" Name="Hellenic Wide" spec="S" gr="zz"/> 
+<Type Cab="V08" pts="18" Name="Parsons" spec="S" gr="zz"/> 
+<Type Cab="V09" pts="24" Name="Parsons" spec="x" gr="zz"/> 
+<Type Cab="V10" pts="6" Name="Bank Gothic Light" spec="S" gr="zz"/> 
+<Type Cab="V10" pts="12" Name="Bank Gothic Medium" spec="S" gr="zz"/> 
+<Type Cab="V11" pts="14" Name="Shaw Text" spec="S" gr="Black"/> 
+<Type Cab="V12" pts="14" Name="Style Script" spec="S" gr="zz"/> 
+<Type Cab="V13" pts="18" Name="Style Script" spec="S" gr="zz"/> 
+<Type Cab="V14" pts="24" Name="Style Script" spec="S" gr="zz"/> 
+<Type Cab="V15" pts="30" Name="Style Script" spec="S" gr="zz"/> 
+<Type Cab="V16" pts="36" Name="Style Script" spec="S" gr="zz"/> 
+<Type Cab="V17" pts="18" Name="Goudy hand-tooled" spec="S" gr="zz"/> 
+<Type Cab="V18" pts="36" Name="Engravers Old English" spec="x" gr="zz"/> 
+<Type Cab="V19" pts="48" Name="Engravers Old English" spec="x" gr="zz"/>         
+            </Stuff>

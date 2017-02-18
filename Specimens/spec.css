@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+   border-collapse: collapse;
+}
+
+table {
+             width: 97%;
+       font-family: Arial;
+         font-size: 12pt;
+       line-height: 150%;
+         
+  background-color: tan; 
+             color: black;
+}
+
+td {
+      text-align: left;
+  vertical-align: top;
+         padding: 10px;
+}
+
+.tdSpecInfo {
+   padding-left: 30px;
+}
+
+.tdMfgmark {
+  vertical-align: middle;
+}
+
+.specA {
+         color: white;
+   font-weight: bold;
+     font-size: 24pt;
+}
+
+.specInfoSpanBold {
+  font-weight: bold;
+}
+
+.specInfoSpanItalic {
+  font-style: italic;
+}
+
+.specImg {
+        width: 97%;
+       border: 15px solid black;   
+        
+}
+
+p {
+       display: block;
+    margin: 5px 0 0 0;
+   padding: 0;
+}
+    
+    
